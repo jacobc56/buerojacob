@@ -1,0 +1,1 @@
+document.write('Aktualisiert: 11.02.2021')
